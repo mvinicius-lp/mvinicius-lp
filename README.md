@@ -3,7 +3,7 @@
 
 - 🌱 Atualmente estou aprendendo **Python e Machine learning**
 
-- 📝 Eu escrevo artigos no site [https://medium.com/@mvinnisouslp87](https://medium.com/@mvinnisouslp87)
+- 📝 Eu escrevo artigos no site [https://medium.com/@mvinnisouslp87](https://medium.com/@mviniciuslp87)
 
 - 💬 Me pergunte sobre **Power BI, Google data studio, Execel e Python**
 
