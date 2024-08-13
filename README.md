@@ -1,11 +1,11 @@
 <h1 align="center">Oi 👋, eu sou o Marcos</h1>
 <h3 align="center">Apaixonado por análise de dados e desenvolvimento web</h3>
 
-- 🌱 Atualmente estou aprendendo **Python e Machine learning**
+- 🌱 Atualmente estou trabalhando com **IA Generativa, Python e Machine learning**
 
 - 📝 Eu escrevo artigos no site [https://medium.com/@mvinnisouslp87](https://medium.com/@mviniciuslp87)
 
-- 💬 Me pergunte sobre **Power BI, Google data studio, Execel e Python**
+- 💬 Me pergunte sobre **IA Generativa, Machine Learning, Flask, AWS, Power BI e Python**
 
 - 📫 Você me acha através do email **mviniciuslp87@alu.ufc.br**
 
